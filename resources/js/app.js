@@ -1,7 +1,7 @@
+import 'vuetify/styles'
 import {createApp} from 'vue'
 import { createRouter, createWebHashHistory } from 'vue-router'
 import { createVuetify } from 'vuetify'
-import 'vuetify/styles'
 
 import routes from './routes.js'
 
