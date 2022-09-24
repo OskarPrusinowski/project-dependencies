@@ -1,4 +1,9 @@
 <template>
-    <h1>aaTEST</h1>
-
+    <v-app>
+        
+</v-app>
 </template>
+<script>
+export default {
+}
+</script>
